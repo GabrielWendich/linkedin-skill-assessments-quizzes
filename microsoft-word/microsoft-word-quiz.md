@@ -76,7 +76,7 @@
 
 - [ ] Whole Word Only.
 - [ ] Replace All.
-- [x] Check Spelling.
+- [x] Match Ponctuation.
 - [ ] Match Case.
 
 #### Q12. Which statement best describes how a bookmark is used in a Word document?
